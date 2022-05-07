@@ -1,7 +1,37 @@
 img {
     width: 450px;
+    height: auto;
 }
 
-ul {
+.recipe-list li{
     list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: firebrick;
+}
+
+.steamed-title {
+    color: darkcyan;
+}
+
+.nacho-title {
+    color: rebeccapurple;
+}
+
+.pizza-title {
+    color: forestgreen;
+}
+
+h3 {
+    background-color: antiquewhite;
+}
+
+ol li {
+    list-style-type: upper-roman;
+}
+
+ul li {
+    list-style-type: circle;
 }
